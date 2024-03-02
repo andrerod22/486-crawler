@@ -1,6 +1,4 @@
-# Information Retrieval Project 3: Web Crawler with PageRank Algorithm
-
-## Description
+# Overview
 
 This project focuses on implementing a web crawler combined with the PageRank algorithm to rank web pages. The crawler is designed to traverse specific domains, extract URLs, and build a representation of the web graph. The PageRank algorithm is then applied to compute the importance scores of web pages based on their connectivity within the graph.
 
